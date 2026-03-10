@@ -1,0 +1,21 @@
+# Ignore local .terraform folder (contains plugins)
+.terraform/
+
+# Ignore Terraform state files
+*.tfstate
+.tfstate
+
+# Ignore secret variable files
+*.tfvars
+*.tfvars.json
+
+# Ignore Windows thumbnail database
+Thumbs.db
+
+# Ignore folder customisation files
+Desktop.ini
+
+# Ignore sensitive environment variables
+.env
+*.log
+
