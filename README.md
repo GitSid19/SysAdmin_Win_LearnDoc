@@ -1,5 +1,7 @@
 ## Project Overview: Enterprise ICT Systems Administration
 
+![Metadata Validation](https://github.com/Scriptorium-Automata/SysAdmin_Win_LearnDoc/actions/workflows/metadata-validator.yml/badge.svg)
+
 This repository serves as a comprehensive technical portfolio and "Standard Operating Procedure" (SOP) library. It documents my personal takes on the different learning paths on Windows learn while mastering enterprise-level Windows infrastructure.
 
 The follwoing paths are covered:
