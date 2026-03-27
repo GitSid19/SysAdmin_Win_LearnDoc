@@ -1,0 +1,10 @@
+module:
+  id: "01-Introduction"
+  title: "Introduction to Git"
+  status: "in_progress"
+  path: "GitHub Foundations Part 1"
+tracking:
+  total_units: 7
+  units_completed: 0
+taxonomy:
+  tags: ["Git", "VCS", "DevOps"]
